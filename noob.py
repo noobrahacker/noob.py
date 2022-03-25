@@ -32,18 +32,18 @@ try:
 except:
     os.system('pip2 install lolcat')
 logo = """'
-\x1b[1;92m'   _   _  ____   ____  ____  
-\x1b[1;92m'  | \ | |/ __ \ / __ \|  _ \ 
-\x1b[1;92m'  |  \| | |  | | |  | | |_) |
-\x1b[1;92m'  | . ` | |  | | |  | |  _ < 
-\x1b[1;92m'  | |\  | |__| | |__| | |_) |
-\x1b[1;92m'  |_| \_|\____/ \____/|____/ 
+\x1b[1;96m'   _   _  ____   ____  ____  
+\x1b[1;96m'  | \ | |/ __ \ / __ \|  _ \ 
+\x1b[1;96m'  |  \| | |  | | |  | | |_) |
+\x1b[1;96m'  | . ` | |  | | |  | |  _ < 
+\x1b[1;96m'  | |\  | |__| | |__| | |_) |
+\x1b[1;96m'  |_| \_|\____/ \____/|____/ 
                           
                                                          
 
-'\x1b[1;91m'          Author      :     NOOBRA
-'\x1b[1;92m'           Github      :     NOOB ON FIRE
-'\x1b[1;94m'     TOOL TYPE   :     PAID COMMANDS
+'\x1b[1;91m' Author      :     NOOBRA
+'\x1b[1;92m' Github      :     NOOB ON FIRE
+'\x1b[1;94m' TOOL TYPE   :     PAID COMMANDS
 '\x1b[1;96m' WAP NUMBER  :     +923341284416
 """
 dec="2"

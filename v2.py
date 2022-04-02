@@ -67,12 +67,12 @@ def ingfoh():
 f"""{Hj}
  • Info script :
  	
- - author      : Romi Afrizal
- - instagram   : romz_xyz
- - facebook    : facebook.com/romi.afrizal.102
+ - author      : IQRA
+ - instagram   : IQRA_TRICKS
+ - facebook    : facebook.com/IQRA_TRICKS
  - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
+ - whatsap     : +1506-502-4794 
+ - github      : github.com/TRICKER
  - script name : bff-2
  - version     : 1.3
  - update pada : 21 Februari 2022
@@ -190,9 +190,9 @@ except KeyError:
 	IP = " "
 	CN = " "
 
-author = 'Romi Afrizal'
-fb_me = 'facebook.com/romi.afrizal.102'
-github = 'github.com/Mark-Zuck'
+author = 'IQRA QUEEN'
+fb_me = 'facebook.com/IQRA TRICKS'
+github = 'github.com/TRICKER'
 
 def banner():
 	os.system('clear')

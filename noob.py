@@ -41,10 +41,10 @@ logo = """'
                           
                                                          
 
-'\x1b[1;91m' Author      :     NOOBRA
+'\x1b[1;91m' Author      :     NOOB
 '\x1b[1;92m' Github      :     NOOB ON FIRE
 '\x1b[1;94m' TOOL TYPE   :     PAID COMMANDS
-'\x1b[1;96m' WAP NUMBER  :     +923341284416
+'\x1b[1;96m' WAP NUMBER  :     +1506-502-4794
 """
 dec="2"
 server="2"
@@ -105,7 +105,7 @@ def main_apv():
         print ("     Agar Ap Na Subscription Kar Le Ha To")
         raw_input ("    Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio ")
          
-        os.system("xdg-open https://wa.me/+923341284416")
+        os.system("xdg-open https://wa.me/+1506-502-4794")
         
         
         
@@ -208,7 +208,7 @@ def main_input():
 			
 			
     elif mx=='7':
-        os.system("xdg-open https://wa.me/+923341284416")
+        os.system("xdg-open https://wa.me/+1506-502-4794 ")
         time.sleep(3)
         main_system()
         
